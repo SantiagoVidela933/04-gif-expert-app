@@ -15,7 +15,7 @@ export const GiftExpertApp = () => {
 
   return (
     <>
-        {/* Titulo */}
+    
         <h1>GiftExpertApp</h1>
     
         <AddCategory 
