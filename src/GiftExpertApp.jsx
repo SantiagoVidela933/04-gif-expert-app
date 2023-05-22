@@ -5,7 +5,7 @@ import { GifGrid } from "./components/GifGrid";
 export const GiftExpertApp = () => {
 
 
-    const [categories, setCategories] = useState(['Resident Evil', 'Mortal Kombat']);
+    const [categories, setCategories] = useState(['Resident Evil']);
 
     const onAddCategory = (newCategory) => {
 
